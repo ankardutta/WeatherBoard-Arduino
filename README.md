@@ -5,7 +5,9 @@
 [![Weather](https://img.shields.io/badge/Weather_Monitoring-4A90E2?style=for-the-badge)](https://en.wikipedia.org/wiki/Weather_station)
 
 As a faculty member of the Computer Science and Technology (CST) department, I had the privilege of serving as the project coordinator for "Weather Display Board in College Campus". This innovative project aimed to 
+
 i) Design and develop an interactive display board 
+
 ii) Showcases real-time weather updates, providing students, faculty, and staff with a convenient and accessible means of staying informed about current weather conditions on campus.
 
 A real-time weather monitoring system with LED display capabilities using IoT components.
