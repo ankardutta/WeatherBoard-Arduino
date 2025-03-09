@@ -40,7 +40,7 @@ graph TD
 ### 🎥 Demo Video
 1. https://github.com/user-attachments/assets/82dcd58c-07ed-447a-b3dd-98a2bfbe6d50
 
-2. 
+2. https://github.com/user-attachments/assets/d4ce427b-b08d-433d-99a2-e957efd91fe5
 
 ### 🔌 Wiring Diagram
 
